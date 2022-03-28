@@ -1,6 +1,62 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-		<!--	created with www.mysitemapgenerator.com	-->
-		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.8">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://netflix-uk.netlify.app/</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en-US"
+               href="https://netflix-uk.netlify.app/"/>
+    </url>
+    <url>
+     <loc>https://netflix-uk.netlify.app/</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en-GB"
+               href="https://netflix-uk.netlify.app/"/>
+    </url>
+	<url>
+	 <loc>https://netflix-uk.netlify.app/</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en-CA" 
+               href="https://netflix-uk.netlify.app/"/>
+    </url>
+	<url>
+	 <loc>https://netflix-uk.netlify.app/</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en-AU" 
+               href="https://netflix-uk.netlify.app/"/>
+    </url>
+	<url>
+	 <loc>https://netflix-uk.netlify.app/</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en-SE" 
+               href="https://netflix-uk.netlify.app/"/>
+    </url>
+	<url>
+	 <loc>https://netflix-uk.netlify.app/</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en-FR" 
+               href="https://netflix-uk.netlify.app/"/>
+    </url>
+	<url>
+	 <loc>https://netflix-uk.netlify.app/</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en-DK" 
+               href="https://netflix-uk.netlify.app/"/>
+    </url>
+    <url>
+	 <loc>https://netflix-uk.netlify.app/</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en-NO" 
+               href="https://netflix-uk.netlify.app/"/>
+    </url>
 <url>
 	<loc>https://netflix-uk.netlify.app/</loc>
 	<lastmod>2022-03-21T17:54:32+01:00</lastmod>
