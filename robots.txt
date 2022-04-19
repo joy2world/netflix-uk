@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://netflix-uk.netlify.app/sitemap.xml
+Sitemap: https://online-movie.netlify.app/sitemap.xml
